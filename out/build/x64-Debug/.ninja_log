@@ -1,0 +1,16 @@
+# ninja log v6
+15	280	8013778372078965	LogWatcher_autogen/timestamp	818ca1750f0f4b05
+290	2837	8013778372496187	CMakeFiles/LogWatcher.dir/src/main.cpp.obj	af00a51428586a7c
+15	280	8013778372078965	LogWatcher_autogen/mocs_compilation.cpp	818ca1750f0f4b05
+15	280	8013778372078965	C:/Users/DJBaka/Documents/GitHub/LogWatcher/out/build/x64-Debug/LogWatcher_autogen/timestamp	818ca1750f0f4b05
+305	3221	8013778372649465	CMakeFiles/LogWatcher.dir/src/ProjectExplorer.cpp.obj	133c9ebe6bed1c27
+301	3295	8013778372592769	CMakeFiles/LogWatcher.dir/src/FileTracker.cpp.obj	f2ab483aed107987
+286	3675	8013778372450951	CMakeFiles/LogWatcher.dir/LogWatcher_autogen/mocs_compilation.cpp.obj	bcc7b4cf925c8f13
+15	280	8013778372078965	C:/Users/DJBaka/Documents/GitHub/LogWatcher/out/build/x64-Debug/LogWatcher_autogen/mocs_compilation.cpp	818ca1750f0f4b05
+297	3334	8013778372561576	CMakeFiles/LogWatcher.dir/src/LogViewerWidget.cpp.obj	a4508d43e329edb0
+293	3554	8013778372531290	CMakeFiles/LogWatcher.dir/src/MainWindow.cpp.obj	e9d3a846f6378b24
+3675	3981	8013778406339436	bin/LogWatcher.exe	3f41442a7659bdb6
+45	139	8013780937156660	LogWatcher_autogen/timestamp	818ca1750f0f4b05
+45	139	8013780937156660	LogWatcher_autogen/mocs_compilation.cpp	818ca1750f0f4b05
+45	139	8013780937156660	C:/Users/DJBaka/Documents/GitHub/LogWatcher/out/build/x64-Debug/LogWatcher_autogen/timestamp	818ca1750f0f4b05
+45	139	8013780937156660	C:/Users/DJBaka/Documents/GitHub/LogWatcher/out/build/x64-Debug/LogWatcher_autogen/mocs_compilation.cpp	818ca1750f0f4b05

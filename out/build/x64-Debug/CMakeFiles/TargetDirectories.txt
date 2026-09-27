@@ -1,0 +1,8 @@
+C:/Users/DJBaka/Documents/GitHub/LogWatcher/out/build/x64-Debug/CMakeFiles/LogWatcher.dir
+C:/Users/DJBaka/Documents/GitHub/LogWatcher/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/DJBaka/Documents/GitHub/LogWatcher/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/DJBaka/Documents/GitHub/LogWatcher/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/DJBaka/Documents/GitHub/LogWatcher/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Users/DJBaka/Documents/GitHub/LogWatcher/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/Users/DJBaka/Documents/GitHub/LogWatcher/out/build/x64-Debug/CMakeFiles/LogWatcher_autogen_timestamp_deps.dir
+C:/Users/DJBaka/Documents/GitHub/LogWatcher/out/build/x64-Debug/CMakeFiles/LogWatcher_autogen.dir

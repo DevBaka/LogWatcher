@@ -1,0 +1,4 @@
+C:/Users/DJBaka/Documents/GitHub/LogWatcher/build/CMakeFiles/LogWatcher.dir
+C:/Users/DJBaka/Documents/GitHub/LogWatcher/build/CMakeFiles/INSTALL.dir
+C:/Users/DJBaka/Documents/GitHub/LogWatcher/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/DJBaka/Documents/GitHub/LogWatcher/build/CMakeFiles/ZERO_CHECK.dir
